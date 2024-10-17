@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Atma:wght@300;400;500;600;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+img {
+    height: 48px;
+    width: 48px;
+    margin-left: 505px;
+    margin-top: 40px;
+}
+.date {
+    margin-top: 20px;
+    margin-left: 500px;
+}
+p {
+    margin-left: 500px;
+}
+p:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.stop {
+    margin-left: 1200px;
+    margin-top: -25px;
+    color: green;
+}
+
+.stop:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.target {
+    margin-left: 150px;
+    margin-top: -80px;
+}
+.over {
+    margin-left: 140px;
+    margin-top: -5px;
+}
+.target:hover {
+    text-decoration: none;
+}
+
+.number {
+    margin-left: 290px;
+    margin-top: -35px;
+}
+.flag  {
+    height: 48px;
+    width: 48px;
+    margin-left: 505px;
+    margin-top: -80px;
+}
+.target2 {
+    margin-left: 400px;
+    margin-top: -3px;
+}
+.over2 {
+    margin-left: 400px;
+    margin-top: -3px;
+}
+.team {
+    margin-left: 500px;
+}
+
+.Win {
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.Win2 {
+    margin-left: 600px;
+    margin-top: -60px;
+}
+.Live {
+    margin-left: 250px;
+    margin-top: 205px;
+}
+.draw {
+    margin-left: 300px;
+    margin-top: -40px;
+}
