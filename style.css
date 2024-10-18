@@ -24,6 +24,7 @@ p:hover {
     cursor: pointer;
 }
 .stop {
+    font-size: 14px;
     margin-left: 1200px;
     margin-top: -25px;
     color: green;
@@ -39,8 +40,8 @@ p:hover {
     margin-top: -80px;
 }
 .over {
-    margin-left: 145px;
-    margin-top: 30.50px;
+    margin-left: 395px;
+    margin-top: 25.9px;
 }
 .target:hover {
     text-decoration: none;
@@ -56,9 +57,11 @@ p:hover {
     margin-left: 505px;
     margin-top: -150px;
 }
+
+
 .target2 {
     margin-left: 400px;
-    margin-top: 60px;
+    margin-top: 55px;
 }
 .over2 {
     margin-left: 400px;
@@ -66,7 +69,7 @@ p:hover {
 }
 .team {
     margin-left: 500px;
-    margin-top: 23.90px;
+    margin-top: 30.90px;
 }
 
 .Win {
@@ -92,12 +95,11 @@ p:hover {
 }
 
 .flag img {
-   margin-top: 102.15px;
+   margin-top: 105.15px;
 }
-
 .target3 {
-    margin-left: 145px;
-    margin-top: -534px;
+    margin-left: 150px;
+    margin-top: -530px;
 }
 
 .lead {
@@ -261,4 +263,116 @@ p:hover {
 
 hr {
     margin-left: 450px;
+}
+
+
+
+.player5 {
+    margin-top: 30px;
+    margin-left: 500px;
+}
+
+
+.runs5 {
+    margin-left: 1007px;
+    margin-top: -30px;
+}
+
+.ball5 {
+    margin-left: 1050px;
+    margin-top: -25px;
+}
+
+.four5 {
+    margin-left: 1100px;
+    margin-top: -25px;
+}
+
+.six5 {
+    margin-left: 1140px;
+    margin-top: -25px;
+}
+
+.rate5 {
+    margin-left: 1180px;
+    margin-top: -25px;
+}
+
+
+
+
+.player6 {
+    margin-top: 910px;
+    margin-left: 500px;
+}
+
+
+.runs6 {
+    margin-left: 1007px;
+    margin-top: -30px;
+}
+
+.ball6 {
+    margin-left: 1050px;
+    margin-top: -25px;
+}
+
+.four6 {
+    margin-left: 1100px;
+    margin-top: -25px;
+}
+
+.six6 {
+    margin-left: 1140px;
+    margin-top: -25px;
+}
+
+.rate6 {
+    margin-left: 1173px;
+    margin-top: -25px;
+    overflow: scroll;
+}
+
+
+
+.player7 {
+    margin-top: 10.50px;
+    margin-left: 500px;
+}
+
+
+.runs7 {
+    margin-left: 1007px;
+    margin-top: -30px;
+}
+
+.ball7 {
+    margin-left: 1050px;
+    margin-top: -25px;
+}
+
+.four7 {
+    margin-left: 1100px;
+    margin-top: -25px;
+}
+
+.six7 {
+    margin-left: 1140px;
+    margin-top: -25px;
+}
+
+.rate7 {
+    margin-left: 1173px;
+    margin-top: -25px;
+}
+
+.engscore {
+    margin-left: 895px;
+    margin-top: -955.50px;
+    cursor: pointer;
+}
+
+.engscore:hover {
+    text-decoration: underline;
+    cursor: pointer;
 }
