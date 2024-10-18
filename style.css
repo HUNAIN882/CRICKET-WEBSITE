@@ -6,6 +6,18 @@
     font-family: "Poppins", sans-serif;
 }
 
+.navbar {
+    background-color: black;
+    color: white; 
+    padding: 15px;
+}
+
+.navbar span {
+    margin-left: 30px;
+}
+
+
+
 img {
     height: 48px;
     width: 48px;
@@ -40,7 +52,7 @@ p:hover {
     margin-top: -80px;
 }
 .over {
-    margin-left: 395px;
+    margin-left: 375px;
     margin-top: 25.9px;
 }
 .target:hover {
@@ -107,7 +119,7 @@ p:hover {
     margin-top: 100px;
 }
 .day {
-    margin-left: 650px;
+    margin-left: 690px;
 }
 
 .batting {
@@ -216,7 +228,7 @@ p:hover {
 }
 
 .four2 {
-    margin-left: 1095px;
+    margin-left: 1097px;
     margin-top: -25px;
 }
 
@@ -230,11 +242,14 @@ p:hover {
     margin-top: -25px;
 }
 
-.player4 {
+.player3 {
     margin-top: 30px;
     margin-left: 500px;
+    cursor: pointer;
 }
-
+.player3:hover {
+    text-decoration: underline;
+}
 
 .runs3 {
     margin-left: 1007px;
@@ -267,11 +282,49 @@ hr {
 
 
 
-.player5 {
+.player4 {
     margin-top: 30px;
     margin-left: 500px;
+    cursor: pointer;
+}
+.player4:hover {
+    text-decoration: underline;
 }
 
+.runs4 {
+    margin-left: 1007px;
+    margin-top: -30px;
+}
+
+.ball4 {
+    margin-left: 1050px;
+    margin-top: -25px;
+}
+
+.four4 {
+    margin-left: 1100px;
+    margin-top: -25px;
+}
+
+.six4 {
+    margin-left: 1140px;
+    margin-top: -25px;
+}
+
+.rate4 {
+    margin-left: 1180px;
+    margin-top: -25px;
+}
+
+
+.player5 {
+    margin-top: 965px;
+    margin-left: 500px;
+    cursor: pointer;
+}
+.player5:hover {
+    text-decoration: underline;
+}
 
 .runs5 {
     margin-left: 1007px;
@@ -298,14 +351,14 @@ hr {
     margin-top: -25px;
 }
 
-
-
-
 .player6 {
-    margin-top: 910px;
+    margin-top: 30px;
     margin-left: 500px;
+    cursor: pointer;
 }
-
+.player6:hover {
+    text-decoration: underline;
+}
 
 .runs6 {
     margin-left: 1007px;
@@ -328,18 +381,22 @@ hr {
 }
 
 .rate6 {
-    margin-left: 1173px;
+    margin-left: 1180px;
     margin-top: -25px;
-    overflow: scroll;
 }
+
+
 
 
 
 .player7 {
-    margin-top: 10.50px;
+    margin-top: 30px;
     margin-left: 500px;
+    cursor: pointer;
 }
-
+.player7:hover {
+    text-decoration: underline;
+}
 
 .runs7 {
     margin-left: 1007px;
@@ -362,17 +419,417 @@ hr {
 }
 
 .rate7 {
-    margin-left: 1173px;
+    margin-left: 1180px;
     margin-top: -25px;
 }
 
-.engscore {
-    margin-left: 895px;
-    margin-top: -955.50px;
+
+
+.player8 {
+    margin-top: 30px;
+    margin-left: 500px;
+    cursor: pointer;
+}
+.player8:hover {
+    text-decoration: underline;
+}
+
+.runs8 {
+    margin-left: 1007px;
+    margin-top: -30px;
+}
+
+.ball8 {
+    margin-left: 1050px;
+    margin-top: -25px;
+}
+
+.four8 {
+    margin-left: 1100px;
+    margin-top: -25px;
+}
+
+.six8 {
+    margin-left: 1140px;
+    margin-top: -25px;
+}
+
+.rate8 {
+    margin-left: 1180px;
+    margin-top: -25px;
+}
+
+
+
+
+.player9 {
+    margin-top: 30px;
+    margin-left: 500px;
     cursor: pointer;
 }
 
+.player9:hover {
+    text-decoration: underline;
+}
+.runs9 {
+    margin-left: 1007px;
+    margin-top: -30px;
+}
+
+.ball9 {
+    margin-left: 1050px;
+    margin-top: -25px;
+}
+
+.four9 {
+    margin-left: 1100px;
+    margin-top: -25px;
+}
+
+.six9 {
+    margin-left: 1140px;
+    margin-top: -25px;
+}
+
+.rate9 {
+    margin-left: 1185px;
+    margin-top: -25px;
+}
+
+
+
+
+
+.player10 {
+    margin-top: 30px;
+    margin-left: 500px;
+    cursor: pointer;
+}
+.player10:hover {
+    text-decoration: underline;
+}
+
+.runs10 {
+    margin-left: 1007px;
+    margin-top: -30px;
+}
+
+.ball10 {
+    margin-left: 1052px;
+    margin-top: -25px;
+}
+
+.four10 {
+    margin-left: 1100px;
+    margin-top: -25px;
+}
+
+.six10 {
+    margin-left: 1140px;
+    margin-top: -25px;
+}
+
+.rate10{
+    margin-left: 1185px;
+    margin-top: -25px;
+}
+
+
+
+
+.player11 {
+    margin-top: 30px;
+    margin-left: 500px;
+    cursor: pointer;
+}
+.player11:hover {
+    text-decoration: underline;
+}
+
+.runs11 {
+    margin-left: 1007px;
+    margin-top: -30px;
+}
+
+.ball11 {
+    margin-left: 1050px;
+    margin-top: -25px;
+}
+
+.four11 {
+    margin-left: 1105px;
+    margin-top: -25px;
+}
+
+.six11 {
+    margin-left: 1140px;
+    margin-top: -25px;
+}
+
+.rate11{
+    margin-left: 1185px;
+    margin-top: -25px;
+}
+
+
+
+
+
+
+.player12 {
+    margin-top: 30px;
+    margin-left: 500px;
+    cursor: pointer;
+}
+.player12:hover {
+    text-decoration: underline;
+}
+
+.runs12 {
+    margin-left: 1007px;
+    margin-top: -30px;
+}
+
+.ball12 {
+    margin-left: 1055px;
+    margin-top: -25px;
+}
+
+.four12 {
+    margin-left: 1105px;
+    margin-top: -25px;
+}
+
+.six12 {
+    margin-left: 1140px;
+    margin-top: -25px;
+}
+
+.rate12{
+    margin-left: 1185px;
+    margin-top: -25px;
+}
+.engscore {
+    margin-left: 900px;
+    margin-top: -955.50px;
+    cursor: pointer;
+}
 .engscore:hover {
     text-decoration: underline;
     cursor: pointer;
 }
+
+
+.extra {
+    margin-left: 500px;
+    margin-top: 35px;
+    margin-bottom: 5px;
+}
+
+.num {
+    margin-left: 1005px;
+    margin-top: -38px;
+}
+
+.total {
+    margin-left: 499px;
+    margin-top: 45px;
+}
+
+.hun {
+    margin-left: 1005px;
+    margin-top: -35px;
+}
+
+.fall {
+    margin-left: 500px;
+    margin-top: 45px;
+}
+
+
+.wic {
+    margin-left: 500px;
+    margin-top: 15px;
+}
+
+.bow {
+    margin-left: 500px;
+    margin-top: 45px;
+}
+
+
+.over5 {
+    margin-left: 1020px;
+    margin-top: -20px;
+}
+
+
+.maiden {
+    margin-left: 1070px;
+    margin-top: -25px;
+}
+
+.run6 {
+    margin-left: 1120px;
+    margin-top: -25px;
+}
+
+.wickets2 {
+    margin-left: 1163px;
+    margin-top: -25px;
+}
+
+
+.eco {
+    margin-left: 1210px;
+    margin-top: -25px;
+}
+
+
+.mob {
+   margin-left: 500px;
+   margin-top: 10px;
+   cursor: pointer;
+}
+.mob:hover {
+    text-decoration: underline;
+}
+.over7 {
+    margin-left: 1015px;
+   margin-top: -30px;
+}
+
+.maiden7 {
+    margin-left: 1073px;
+    margin-top: -25px;
+}
+
+.run7 {
+    margin-left: 1115px;
+    margin-top: -25px;
+}
+
+
+.wickets7 {
+    margin-left: 1166px;
+    margin-top: -25px;
+}
+
+
+.eco7 {
+    margin-left: 1212px;
+    margin-top: -25px;
+}
+
+
+.mob2 {
+    margin-left: 500px;
+    margin-top: 10px;
+    cursor: pointer;
+ }
+ .mob2:hover {
+    text-decoration: underline;
+ }
+ .over8 {
+     margin-left: 1015px;
+    margin-top: -30px;
+ }
+ 
+ .maiden8 {
+     margin-left: 1073px;
+     margin-top: -25px;
+ }
+ 
+ .run8 {
+     margin-left: 1115px;
+     margin-top: -25px;
+ }
+ 
+ 
+ .wickets8 {
+     margin-left: 1166px;
+     margin-top: -25px;
+ }
+ 
+ 
+ .eco8 {
+     margin-left: 1212px;
+     margin-top: -25px;
+ }
+
+
+
+ .mob3 {
+    margin-left: 500px;
+    margin-top: 10px;
+    cursor: pointer;
+    
+ }
+ .mob3:hover {
+    text-decoration: underline;
+ }
+ .over9 {
+     margin-left: 1017px;
+    margin-top: -30px;
+ }
+ 
+ .maiden9 {
+     margin-left: 1073px;
+     margin-top: -25px;
+ }
+ 
+ .run9 {
+     margin-left: 1118px;
+     margin-top: -25px;
+ }
+ 
+ 
+ .wickets9 {
+     margin-left: 1167px;
+     margin-top: -25px;
+ }
+ 
+ 
+ .eco9 {
+     margin-left: 1212px;
+     margin-top: -25px;
+ }
+
+
+
+
+ .mob4 {
+    margin-left: 500px;
+    margin-top: 10px;
+    cursor: pointer;
+    
+ }
+ .mob4:hover {
+    text-decoration: underline;
+ }
+ .over10 {
+     margin-left: 1017px;
+    margin-top: -30px;
+ }
+ 
+ .maiden10 {
+     margin-left: 1073px;
+     margin-top: -25px;
+ }
+ 
+ .run10 {
+     margin-left: 1118px;
+     margin-top: -25px;
+ }
+ 
+ 
+ .wickets10 {
+     margin-left: 1167px;
+     margin-top: -25px;
+ }
+ 
+ 
+ .eco10 {
+     margin-left: 1212px;
+     margin-top: -25px;
+ }
