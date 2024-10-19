@@ -10,6 +10,7 @@
     background-color: black;
     color: white; 
     padding: 15px;
+    cursor: pointer;
 }
 
 .navbar span {
@@ -21,7 +22,7 @@
 img {
     height: 48px;
     width: 48px;
-    margin-left: 505px;
+    margin-left: 555px;
     margin-top: 80px;
 }
 .date {
@@ -29,7 +30,7 @@ img {
     margin-left: 500px;
 }
 p {
-    margin-left: 500px;
+    margin-left: 550px;
 }
 p:hover {
     text-decoration: underline;
@@ -48,11 +49,11 @@ p:hover {
 }
 
 .target {
-    margin-left: 150px;
+    margin-left: 110px;
     margin-top: -80px;
 }
 .over {
-    margin-left: 375px;
+    margin-left: 330px;
     margin-top: 25.9px;
 }
 .target:hover {
@@ -60,19 +61,19 @@ p:hover {
 }
 
 .number {
-    margin-left: 290px;
+    margin-left: 230px;
     margin-top: -80.15px;
 }
 .flag  {
     height: 48px;
     width: 48px;
-    margin-left: 505px;
+    margin-left: 460px;
     margin-top: -150px;
 }
 
 
 .target2 {
-    margin-left: 400px;
+    margin-left: 350px;
     margin-top: 55px;
 }
 .over2 {
@@ -80,7 +81,7 @@ p:hover {
     margin-top: 2.5px;
 }
 .team {
-    margin-left: 500px;
+    margin-left: 458px;
     margin-top: 30.90px;
 }
 
@@ -102,16 +103,16 @@ p:hover {
     margin-top: -40px;
 }
 .number2 {
-    margin-left: 285px;
+    margin-left: 225px;
     margin-top: -2.90px;
 }
 
 .flag img {
-   margin-top: 105.15px;
+   margin-top: 104.15px;
 }
 .target3 {
-    margin-left: 150px;
-    margin-top: -530px;
+    margin-left: 112px;
+    margin-top: -538px;
 }
 
 .lead {
@@ -247,6 +248,7 @@ p:hover {
     margin-left: 500px;
     cursor: pointer;
 }
+
 .player3:hover {
     text-decoration: underline;
 }
@@ -472,7 +474,7 @@ hr {
     text-decoration: underline;
 }
 .runs9 {
-    margin-left: 1007px;
+    margin-left: 1015px;
     margin-top: -30px;
 }
 
@@ -510,7 +512,7 @@ hr {
 }
 
 .runs10 {
-    margin-left: 1007px;
+    margin-left: 1015px;
     margin-top: -30px;
 }
 
@@ -960,3 +962,59 @@ hr {
     margin-left: 35px;
     margin-top: 35px;
  }
+
+
+ .lbw {
+    margin-left: 500px;
+    margin-top: -1330px;
+ }
+
+ .lbw2 {
+    margin-left: 500px;
+    margin-top: 25px;
+ }
+
+ .lbw3 {
+    margin-left: 500px;
+    margin-top: 25px;
+ }
+
+ .lbw4 {
+    margin-left: 500px;
+    margin-top: 29px;
+ }
+
+ .lbw5 {
+    margin-left: 500px;
+    margin-top: 25px;
+ }
+
+ .lbw6 {
+    margin-left: 500px;
+    margin-top: 23px;
+ }
+
+ .lbw7 {
+    margin-left: 499px;
+    margin-top: 28px;
+ }
+
+.lbw8 {
+    margin-left: 499px;
+    margin-top: 25px;
+} 
+
+.lbw9 {
+    margin-left: 499px;
+    margin-top: 25px;
+}
+
+.lbw10 {
+    margin-left: 499px;
+    margin-top: 25px;
+}
+
+.lbw11 {
+    margin-left: 499px;
+    margin-top: 25px;
+}
