@@ -818,7 +818,7 @@ hr {
  }
  
  .run10 {
-     margin-left: 1118px;
+     margin-left: 1115px;
      margin-top: -25px;
  }
  
@@ -832,4 +832,131 @@ hr {
  .eco10 {
      margin-left: 1212px;
      margin-top: -25px;
+ }
+
+
+
+
+ .mob5 {
+    margin-left: 500px;
+    margin-top: 10px;
+    cursor: pointer;
+    
+ }
+ .mob5:hover {
+    text-decoration: underline;
+ }
+ .over11 {
+     margin-left: 1017px;
+    margin-top: -30px;
+ }
+ 
+ .maiden11 {
+     margin-left: 1073px;
+     margin-top: -25px;
+ }
+ 
+ .run11 {
+     margin-left: 1115px;
+     margin-top: -25px;
+ }
+ 
+ 
+ .wickets11 {
+     margin-left: 1169px;
+     margin-top: -25px;
+ }
+ 
+ 
+ .eco11 {
+     margin-left: 1212px;
+     margin-top: -25px;
+ }
+
+
+
+
+
+ .mob6 {
+    margin-left: 500px;
+    margin-top: 10px;
+    cursor: pointer;
+    
+ }
+ .mob6:hover {
+    text-decoration: underline;
+ }
+ .over12 {
+     margin-left: 1017px;
+    margin-top: -30px;
+ }
+ 
+ .maiden12 {
+     margin-left: 1073px;
+     margin-top: -25px;
+ }
+ 
+ .run12 {
+     margin-left: 1115px;
+     margin-top: -25px;
+ }
+ 
+ 
+ .wickets12 {
+     margin-left: 1167px;
+     margin-top: -25px;
+ }
+ 
+ 
+ .eco12 {
+     margin-left: 1212px;
+     margin-top: -25px;
+ }
+
+
+ .key {
+    margin-left: 502px;
+     margin-top: 45px;
+ }
+
+
+ .captain {
+    margin-left: 500px;
+     margin-top: 25px;
+ }
+
+ .keeper {
+    margin-left: 495px;
+    margin-top: 5px;
+ }
+
+
+  .coin {
+    margin-left: 580px;
+    margin-top: 25px;
+ }
+
+
+ .coins p {
+    margin-left: 535px;
+    margin-top: -25px;
+    color: green;
+ }
+
+ .coins2 p {
+    margin-left: 535px;
+    margin-top: -25px;
+    color: green;
+ }
+
+
+ .coin2 {
+    margin-left: 600px;
+    margin-top: 10px;
+ }
+
+
+ .time1 {
+    margin-left: 35px;
+    margin-top: 35px;
  }
